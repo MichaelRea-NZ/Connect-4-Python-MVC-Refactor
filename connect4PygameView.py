@@ -39,7 +39,7 @@ class Connect4PygameView:
                         HEIGHT - int(r * GAP_SIZE + GAP_SIZE / 2)), RADIUS)
 
         self.update_window()
-        self.top()
+        #self.top()
 
     def top(self):
         pygame.draw.rect(self.screen, BACKGROUND,
