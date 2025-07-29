@@ -22,8 +22,7 @@ Controller: Manages user input and game logic flow
 Demonstration Video
 A full walkthrough of the project is available on YouTube:
 Demonstration Video
-A full walkthrough of the project is available on YouTube:
-Connect 4 MVC Project Walkthrough
+A full walkthrough of the project is available on YouTube: https://youtu.be/OwsqLQ2miJY
 
 Skills Demonstrated
 Python programming
@@ -38,15 +37,3 @@ Game development basics
 
 Use of third-party libraries (Pygame)
 
-Skills Demonstrated
-Python programming
-
-Object-oriented design
-
-MVC architecture
-
-Code refactoring and modularity
-
-Game development basics
-
-Use of third-party libraries (Pygame)
